@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋😊
+
+I'm a Computational Data Science student at Pennsylvania State University!
 
 <!--
 **vllknny/vllknny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
