@@ -2,6 +2,11 @@
 
 I'm a Computational Data Science student at Pennsylvania State University!
 
+Studying focuses on Quantitative Research, Finance, Data Analysis, and DSP.
+Languages: Python, SQL, R for data manipulation, machine learning, and macro fundamentals.
+JavaScript for more visual applications. C++ for digital signal processing, low latency, and audio systems.
+
+Check out my GitHub Pages website for an interactive medium of my projects and resume!
 <!--
 **vllknny/vllknny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
